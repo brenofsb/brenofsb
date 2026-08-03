@@ -1,23 +1,39 @@
-### Hey, I'm Breno
+# Hey, I'm Breno Borges 👋
 
-I'm a Software Engineering student at UCSAL, in Salvador, Brazil, currently building my foundation in Java and programming logic. I'm documenting my coursework here on GitHub as I go, semester by semester, and I'm looking for my first internship in software development.
+Olá! Sou desenvolvedor em formação, apaixonado por tecnologia e resolução de problemas. Atualmente estou focado em evoluir minhas habilidades em desenvolvimento de software e buscando oportunidades para aplicar meu conhecimento em projetos reais.
 
-Outside of code, I enjoy working on game projects and music in my free time.
+Além do código, gosto de explorar novas tecnologias, contribuir com a comunidade e estou sempre em busca do próximo desafio.
 
-### 🖥️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofsb&show_icons=true&theme=dark)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenofsb&layout=compact&theme=dark)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=brenofsb&theme=dark)
+## 📊 GitHub Stats
 
-### 📫 Reach me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:borgesbreno.0905@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/breno-borges-0614913a9)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brenofsb&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="Breno's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofsb&theme=dark&layout=compact&hide_border=true" alt="Top Languages" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brenofsb&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Reach Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgesbreno.0905@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-borges-0614913a9)
+
+---
+
+> "O código é como poesia; deve ser conciso, expressivo e elegante."
