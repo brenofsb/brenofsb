@@ -1,8 +1,8 @@
 ### Hey, I'm Breno
 
-Sou estudante de Engenharia de Software na UCSAL, em Salvador, construindo minha base em Java e lógica de programação. Estou documentando meu aprendizado aqui no GitHub, semestre a semestre, e buscando meu primeiro estágio em desenvolvimento de software.
+I'm a Software Engineering student at UCSAL, in Salvador, Brazil, currently building my foundation in Java and programming logic. I'm documenting my coursework here on GitHub as I go, semester by semester, and I'm looking for my first internship in software development.
 
-Fora do código, gosto de projetos de jogos e música no meu tempo livre.
+Outside of code, I enjoy working on game projects and music in my free time.
 
 ### 🖥️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -12,7 +12,7 @@ Fora do código, gosto de projetos de jogos e música no meu tempo livre.
 
 ### 📊 GitHub Stats
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofsb&show_icons=true&theme=dark)
+![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofsb&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenofsb&layout=compact&theme=dark)
 
