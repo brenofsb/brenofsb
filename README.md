@@ -19,9 +19,6 @@ Sou um engenheiro de software em formação, apaixonado por tecnologia e resolu�
 ![](https://github-readme-stats.shion.dev/api?username=brenofsb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=brenofsb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=brenofsb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 📫 Reach Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgesbreno.0905@gmail.com)
