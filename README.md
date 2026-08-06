@@ -23,6 +23,3 @@ Sou um engenheiro de software em formação, apaixonado por tecnologia e resolu�
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgesbreno.0905@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-borges-0614913a9)
-
----
-
