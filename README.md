@@ -1,4 +1,4 @@
-8# Hey, I'm Breno Borges 👋
+# Hey, I'm Breno Borges 👋
 
 Sou um engenheiro de software em formação, apaixonado por tecnologia e resolução de problemas. Atualmente estou focado em evoluir minhas habilidades em desenvolvimento de software e buscando oportunidades para aplicar meu conhecimento em projetos reais.<br><br>Além do código, gosto de explorar novas tecnologias, e ouvir música no meu tempo livre.
 
